@@ -29,14 +29,14 @@ background-color: beige;
 }
 .form-group {
 display: flex;
-column-gap: 70px;
+column-gap: 52px;
 margin: 10px;
 }
 .first-name{
 padding: 10px;
 border: 1px solid #ccc;
 border-radius: 5px;
-width: 215px;
+width: 245px;
 }
 .last-name{
 display: flex;
@@ -45,11 +45,11 @@ display: flex;
 padding: 10px;
 border: 1px solid #ccc;
 border-radius: 5px;
-width: 522px;
+width: 564px;
 }
 .form-group3 {
 display: flex;
-column-gap: 180px;
+column-gap: 192px;
 margin: 10px;
 }
 .form-group2 {
@@ -64,7 +64,7 @@ color: rgb(15, 201, 148);
 
 }
 .vol{
-width: 230px;
+width: 227px;
 }
 
 
